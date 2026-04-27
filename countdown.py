@@ -9,4 +9,4 @@ while count > 0:
     count -= 1        # Decrease count by 1 each iteration
 
 # This prints after the loop ends naturally
-print("Blast off! 🚀")
+print("Blast off!")
